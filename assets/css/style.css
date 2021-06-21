@@ -1,0 +1,52 @@
+
+nav , footer{ background-color:#17A3B8;
+}
+
+
+svg{width: 30px;
+    height: 30px;
+}
+
+.card {border-color: #17A3B8 ;
+}
+
+.card-header {background-color: #17A3B8;
+    border-color: #17A3B8 ;
+    color: #17A3B8; 
+
+}
+hr{color: #17A3B8;}
+h3{color: #ffffff; 
+font-weight: 400;}
+
+
+body {background-color: black;
+font-family: 'Raleway';
+}
+
+.iconos{fill: #ffffff;
+    display: inline-block;
+    align-items: flex-end;
+}
+
+
+.grid-container{display: inline grid;
+ grid-template-columns: auto auto auto;
+ grid-column-gap: 20px;
+
+}
+
+.grid-container-cards{
+display: inline grid;
+align-items: center;
+grid-column-gap: 20px;
+grid-template-columns: auto auto auto auto;
+grid-row: unset;
+}
+
+footer{width: 100%;
+
+
+}
+
+
